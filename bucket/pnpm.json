@@ -14,16 +14,9 @@
         }
     },
     "env_set": {
-        "PNPM_HOME": "D:\\belleradh\\Programs\\Scoop\\apps\\pnpm\\current",
+        "PNPM_HOME": "$dir"
     },
-    "bin": [
-        "pnpm.exe",
-        [
-            "pnpm.exe",
-            "pnpx",
-            "dlx"
-        ]
-    ],
+    "bin": ["pnpm.exe", ["pnpm.exe", "pnpx", "dlx"]],
     "checkver": {
         "script": [
             "# Using checkver script to check through all release tags",
