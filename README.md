@@ -9,7 +9,7 @@ After manifests have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add bird https://github.com/belleradh/birdbucket
-scoop install bird/<manifestname>
+scoop install bird/app
 ```
 
 ## How do I contribute new manifests?
