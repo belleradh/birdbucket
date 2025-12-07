@@ -13,12 +13,9 @@
             "hash": "655daaadfe1e4c05423845e871db14d0966f7d7a1cf683ef8396c45ab5804f8d"
         }
     },
-
-    "env_add_path": [
-        "%PNPM_HOME%"
-    ],
     "env_set": {
-        "PNPM_HOME": "D:\\belleradh\\Programs\\Scoop\\apps\\pnpm\\current"
+        "PNPM_HOME": "D:\\belleradh\\Programs\\Scoop\\apps\\pnpm\\current",
+        "PATH": "%PNPM_HOME%;%PATH%"
     },
     "bin": [
         "pnpm.exe",
