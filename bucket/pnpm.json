@@ -15,7 +15,6 @@
     },
     "env_set": {
         "PNPM_HOME": "D:\\belleradh\\Programs\\Scoop\\apps\\pnpm\\current",
-        "PATH": "%PNPM_HOME%;%PATH%"
     },
     "bin": [
         "pnpm.exe",
