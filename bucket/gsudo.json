@@ -22,12 +22,7 @@
         }
     },
     "env_add_path": ".",
-    "bin": [
-        [
-            "gsudo.exe",
-            "gsudo"
-        ]
-    ],
+    "bin": [["gsudo.exe", "gsudo"]],
     "psmodule": {
         "name": "gsudoModule"
     },
